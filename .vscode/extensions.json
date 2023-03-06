@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "gitpod.gitpod-remote-ssh"
+        "gitpod.gitpod-remote-ssh",
+        "ms-azuretools.vscode-docker"
     ]
 }
