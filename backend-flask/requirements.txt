@@ -9,7 +9,4 @@ opentelemetry-exporter-otlp-proto-http
 opentelemetry-instrumentation-flask 
 opentelemetry-instrumentation-requests
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a976acfb526c1c0fd456737087e1909e672fc03f
